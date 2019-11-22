@@ -1,0 +1,39 @@
+head{
+	background-color: black;
+
+	color: white;
+}
+h1{
+	background-color:black;
+	color: white;
+
+}
+h3{
+	background-color: black;
+
+	color: white;
+}
+p{
+	background-color: black;
+
+	color: white;
+}
+body{
+	background-color: black;
+
+	color: white;
+
+}
+
+img {
+	max-width: 356px;
+	height: auto;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+}
+
