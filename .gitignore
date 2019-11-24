@@ -1,4 +1,4 @@
-commit -m"corrected error in ig/.idea
+/.idea
 .DS_Strong  
 */vendor
 php/mail-config.php
