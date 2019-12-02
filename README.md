@@ -13,3 +13,6 @@ Your content strategy may need some work. A few more details in each of the sect
 If you need additional resourcers for the development aspects of your project, feel free to reach out to the instructors so that we may guide you in the direction of some functionality you may be seeking. Continue on moving forward with the development of your PWP. Keep up the good work!
 
 This passes at Tier III.
+
+## PWP Milestone 4 feedback
+Looks good! Submitted on time. The site renders on mobile and adjusts in the browser for the most part. Minor alignment issue in about me section in browser and mobile. Need to break up commits a bit more. With the initial deployment issue, this passes at Tier II.
